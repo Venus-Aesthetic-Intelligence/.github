@@ -8,9 +8,7 @@ Business Email: info@venusconcept.com
 
 Business Phone: (888) 907-0115
 
-Hours of Operation: 
-Monday – Friday: 9:00 AM – 5:00 PM
-Saturday – Sunday: Closed"
+Hours of Operation:  Monday – Friday: 9:00 AM – 5:00 PM | Saturday – Sunday: Closed"
 
 ![Medical Aesthetic Equipment Company _ Venus(1)](https://github.com/user-attachments/assets/014a3af4-0652-49d2-a491-9945bf85a89a)
 ![Medical Aesthetic Equipment Company _ Venus](https://github.com/user-attachments/assets/146338a4-5595-491b-a02f-5ded821aa8e8)
